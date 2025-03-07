@@ -1,6 +1,6 @@
-@extends('layout.client')
+@extends("layout.client")
 @section('content')
-
-<h1>Accueil</h1>
-
+<h2>Samir</h2>
 @endsection
+
+
