@@ -12,7 +12,7 @@ class CategorieController extends Controller
     {
         $categories = Categorie::all();
         return view('client.categorie', [
-
+            
                 'categories' => $categories
 
             ]);
